@@ -1,0 +1,7 @@
+steps to push into repo
+
+git init
+git add -A
+git branch -m main
+git remote add origin https://github.com/DHRUV208/Excel-Clone.git
+git push -f origin main
