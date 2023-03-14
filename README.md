@@ -1,4 +1,4 @@
-DR-Xcel-Clone Project: Final Project Btech Cse
+DR-Xcel : Final Project Btech CSE
 Project Partner: Rishabh Jain
 
 # one way binding notes
@@ -11,3 +11,15 @@ Project Partner: Rishabh Jain
 
 #### image 2 : 
 ![pic 2](./ss/2.png "ss_2")
+
+#### image 3 : 
+![pic 3](./ss/3.png "ss_3")
+
+#### image 4 : 
+![pic 4](./ss/4.png "ss_4")
+
+#### image 5 : 
+![pic 5](./ss/5.png "ss_5")
+
+#### image 6 : 
+![pic 6](./ss/6.png "ss_6")
