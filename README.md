@@ -23,3 +23,7 @@ Project Partner: Rishabh Jain
 
 #### image 6 : 
 ![pic 6](./ss/6.png "ss_6")
+
+#### image 7 : 
+When You right click on sheet name it asks for delete confirmation.
+![pic 7](./ss/7.png "ss_7")
